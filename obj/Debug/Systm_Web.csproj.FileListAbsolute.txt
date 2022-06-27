@@ -1,0 +1,178 @@
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Gimnasio  Web Asp.Net C#\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\Usuario\Desktop\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Systm_Web.dll.config
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Systm_Web.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Systm_Web.pdb
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.Web.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Entidades.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\EntityFramework.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Negocios.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\WebGrease.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AccesoDato.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\stdole.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Entidades.pdb
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\Negocios.pdb
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\EntityFramework.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\AccesoDato.pdb
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\EntityFramework.resources.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.dll
+C:\Users\User\Desktop\Nueva carpeta\Sistema Servicio Tecnico\System\Systm_Web\Systm_Web\obj\Debug\Systm_Web.pdb
